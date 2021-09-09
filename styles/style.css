@@ -17,10 +17,14 @@ html {
     border: none;
     border-radius: 15px;
     box-shadow: 0 2px #45a29e;
+    transition: 100ms;
   }
   
   
-  .button:hover {background-color: #0b0c10}
+  .button:hover {
+      background-color: #0b0c10;
+      transform: scale(1.1);
+    }
   
   .button:active {
     background-color: #c5c6c7;
