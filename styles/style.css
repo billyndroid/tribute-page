@@ -6,6 +6,10 @@ html {
   article {
 
   }
+  #tribute-info {
+    margin: auto;
+    background-color:#282b3a ;
+  }
   .button {
     padding: 5px 15px;
     font-size: 14px;
@@ -39,6 +43,10 @@ html {
     color: #66fcf1;
     text-shadow: 0.5px 0.5px 1px rgb(151, 151, 151);
   }
+  #title {
+    flex-shrink: inherit;
+    
+  }
   
   h2 {
     margin: 0;
@@ -64,6 +72,8 @@ html {
     margin: 0 auto;
     width: auto;
     box-sizing: border-box;
+      max-width: 100%;
+      height: auto;
   }
   
   footer {
