@@ -14,12 +14,12 @@ Firstly I used Adobe Illustrator to draw some of the icons I would be using. I r
 
 ![Screenshot](assets/design/xd-screenshot.png)
 
-![Screenshot](assets/design/xd-screenshot.png)
+![Screenshot](assets/design/xd-screenshot2.png)
 
 ### Once the layout is completed, I split each screen and begin 'prototyping' - animations and transitions
 
 
 ***REFERENCE LIST:***
-[No Date] No Name [online] available at: https://www.theschoolrun.com/homework-help/galileo-galilei [Accesed on: 29,09.21]
+[No Date] No Name [online] available at: https://www.theschoolrun.com/homework-help/galileo-galilei [Accessed on: 29,09.21]
 
 
