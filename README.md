@@ -1,4 +1,4 @@
-# A Tribue to Galileo Galilei
+# A Tribute to Galileo Galilei
 project1-freecodecamp-tributepage
 Thank you for checking out my project. This was first completed as part of Responsive Web Design course at FreeCodeCamp
  
