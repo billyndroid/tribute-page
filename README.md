@@ -14,7 +14,7 @@ Firstly I used Adobe Illustrator to draw some of the icons I would be using. I r
 
 ![Screenshot](assets/design/xd-screenshot.png)
 
-![Screenshot](assets/design/xd-screenshot2.png)
+![Screenshot](assets/design/xd-screenshot-2.png)
 
 ### Once the layout is completed, I split each screen and begin 'prototyping' - animations and transitions
 
