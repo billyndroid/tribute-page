@@ -9,7 +9,6 @@ __________________________________________
 # The Design Process
 
 *Firstly, I researched the content and decided what to include/discard in the timeline. 
-
 *I then used Adobe Illustrator to draw some of the icons I would be using. I really liked some of the icons I found as reference so to save time, I used some of those too. Reference list below and code will reflect this. 
 
 ![Screenshot](assets/design/my-icons/diploma-icon.png)
