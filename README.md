@@ -6,6 +6,7 @@ Since completing this small project and beginning a FCC course in Javascript Dat
 
 
 https://raw.githubusercontent.com/billyndroid/tribute-page/main/assets/design/xd-screenshot.png
+![Screenshot](xd-screenshot.png)
 
 ***REFERENCE LIST:***
 [No Date] No Name [online] available at: https://www.theschoolrun.com/homework-help/galileo-galilei [Accesed on: 29,09.21]
